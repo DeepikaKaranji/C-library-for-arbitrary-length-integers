@@ -42,6 +42,7 @@ An integer 25, for example, is stored in a string s as '2' at s[0], '5' at s[1],
 14. Binary Search
 15. Sort an array of N intals
 
+More details about the functions(parameters, return type etc) are available in `intal.h`.
 
 ## Approach and Implementation:
 
