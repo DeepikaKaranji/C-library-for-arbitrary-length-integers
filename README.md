@@ -84,9 +84,9 @@ because I dont assume MAX length anywhere with '\0' in the (MAX+ 1)th position.
 But multiplication of 2 1000 digit numbers may result in overflow. 
 To handle this, When the datatype grows, we could create a new memory location with the resized value and copy the elements to it, delete the old one.
 
-### License
+## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.  
 
 
 
