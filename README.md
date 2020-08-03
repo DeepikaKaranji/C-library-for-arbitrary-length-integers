@@ -32,7 +32,7 @@ An integer 25, for example, is stored in a string s as '2' at s[0], '5' at s[1],
 4. Multiply
 5. Modulus
 6. Exponent
-7. Greatest Commn Divisor
+7. Greatest Common Divisor
 8. Nth Fibonacci number
 9. Factorial
 10. Binomial Coefficient C(n,k)
@@ -80,7 +80,7 @@ A few other functionalities that could improve this library are
 - Karatsuba multiplication
 
 I believe that my implementation currently can handle integers of arbitary length, 
-because I dont assume 1000 as MAX length anywhere with '\0' in the 1001th position.
+because I dont assume MAX length anywhere with '\0' in the (MAX+ 1)th position.
 But multiplication of 2 1000 digit numbers may result in overflow. 
 To handle this, When the datatype grows, we could create a new memory location with the resized value and copy the elements to it, delete the old one.
 
