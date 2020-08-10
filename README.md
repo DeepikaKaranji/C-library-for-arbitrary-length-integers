@@ -1,4 +1,5 @@
 # C-library-for-arbitrary-length-integers
+[![Generic badge](https://img.shields.io/badge/build-passing-green.svg)](https://shields.io/)
 This project is a C library called "intal.h" which supports operations on integers stored as NULL terminated strings.
 
 ## Introduction:
