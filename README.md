@@ -1,7 +1,9 @@
 # C-library-for-arbitrary-length-integers  
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Generic badge](https://img.shields.io/badge/build-passing-green.svg)](https://shields.io/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)  
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Generic badge](https://img.shields.io/badge/pythoon-3.4|3.5|3.5-blue.svg)](https://shields.io/)
+
 
 This project is a C library called "intal.h" which supports operations on integers stored as NULL terminated strings.
 
